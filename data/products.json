@@ -1,0 +1,73 @@
+[
+    {
+      "id": "1",
+      "name": "Montre Connectée FitLife",
+      "price": 99.99,
+      "image": "https://images.unsplash.com/photo-1600185365926-3d4f06e5308b",
+      "description": "Cette montre connectée suit votre activité quotidienne, surveille votre fréquence cardiaque et analyse votre sommeil. Avec son design élégant et son écran tactile haute résolution, elle est l'accessoire idéal pour rester en forme et connecté."
+    },
+    {
+      "id": "2",
+      "name": "Casque Sans Fil SoundPro",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1589521977951-66d6fd1e3f0a",
+      "description": "Profitez d'une qualité sonore exceptionnelle avec le casque sans fil SoundPro. Doté de la technologie de réduction de bruit active, il offre une expérience d'écoute immersive avec un design ergonomique pour un confort optimal."
+    },
+    {
+      "id": "3",
+      "name": "Sac à Dos Voyage Explorer",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1516302350523-b7b3c3f36c41",
+      "description": "Le sac à dos Explorer est conçu pour les aventuriers modernes. Avec une capacité de 30 litres, des compartiments multiples et un matériau résistant à l'eau, il est parfait pour les voyages et les randonnées."
+    },
+    {
+      "id": "4",
+      "name": "Machine à Café BaristaHome",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e",
+      "description": "Préparez des espressos dignes d'un café avec la machine BaristaHome. Elle dispose d'une pression de 15 bars, d'un mousseur à lait intégré et d'un design compact qui s'adapte à toutes les cuisines."
+    },
+    {
+      "id": "5",
+      "name": "Lunettes de Soleil PolarEyes",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1543946207-39bd91e70ca9",
+      "description": "Les lunettes de soleil PolarEyes offrent une protection UV400 et des verres polarisés pour réduire l'éblouissement. Leur monture légère et stylée convient à toutes les occasions."
+    },
+    {
+      "id": "6",
+      "name": "Enceinte Bluetooth PartyBox",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1518445694586-3c21ed84ebd4",
+      "description": "Animez vos soirées avec l'enceinte Bluetooth PartyBox. Elle offre un son puissant, des lumières LED synchronisées avec la musique et une autonomie de 12 heures."
+    },
+    {
+      "id": "7",
+      "name": "Tapis de Yoga EcoFlex",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1602318739632-aba31df4b02f",
+      "description": "Le tapis de yoga EcoFlex est fabriqué à partir de matériaux écologiques et offre une surface antidérapante pour une pratique en toute sécurité. Il est léger, durable et facile à transporter."
+    },
+    {
+      "id": "8",
+      "name": "Appareil Photo Instantané SnapShot",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1517701604599-bfe61f9b3e49",
+      "description": "Capturez vos moments préférés et imprimez-les instantanément avec l'appareil photo SnapShot. Il dispose de filtres intégrés, d'un flash automatique et d'un design rétro charmant."
+    },
+    {
+      "id": "9",
+      "name": "Mixeur Portable BlendMaster",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1600271886740-bf30a9bba78c",
+      "description": "Le mixeur portable BlendMaster est idéal pour préparer des smoothies et des shakes en déplacement. Rechargeable via USB, il est compact et facile à nettoyer."
+    },
+    {
+      "id": "10",
+      "name": "Lampe de Chevet Intelligente LumiGlow",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1571772096274-de4a9a0a3f3f",
+      "description": "La lampe de chevet LumiGlow offre un éclairage ajustable, des modes de couleur variés et une fonction de réveil simulateur d'aube. Contrôlable via une application mobile, elle allie technologie et design élégant."
+    }
+  ]
+  
